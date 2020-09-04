@@ -195,12 +195,24 @@ ahead for more epoch with more computational💻 power.
 
 # Python Packages📦 used:
 
+* **Numpy**: NumPy stands for Numerical Python. It support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
+* **Pandas**: pandas is a Python package that provides fast, flexible, and expressive data structures designed to make working with structured (tabular, multidimensional, potentially heterogeneous) and time series data both easy and intuitive. It aims to be the fundamental high-level building block for doing practical, real world data analysis in Python.
+* **Matplotlib**: Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python. It can be used in Python scripts, the Python and IPython shell, web application servers, and various graphical user interface toolkits.
+* **Plotly**: It is an interactive, open-source, and browser-based graphing library for Python.
+* **Seaborn**: Seaborn is a library for making statistical graphics in Python. It is built on top of matplotlib and closely integrated with pandas data structures.
+
+
 <p float="left">
   <img src="https://user-images.githubusercontent.com/64481847/92205366-2a00d900-eea3-11ea-9389-22d5b9911985.jpg" width="400" />
   <img src="https://user-images.githubusercontent.com/64481847/92205324-13f31880-eea3-11ea-8dfc-1710799ad18b.jpg" width="400" />
 </p>
 
 <br>
+
+* **Tqdm**: Instantly make your loops show a smart progress meter - just wrap any iterable with tqdm(iterable), and you’re done! tqdm works on any platform (Linux, Windows, Mac, FreeBSD, NetBSD, Solaris/SunOS), in any console or in a GUI, and is also friendly with IPython/Jupyter notebooks.
+* **OpenCv**: OpenCV is a cross-platform library using which we can develop real-time computer vision applications. It mainly focuses on image processing, video capture and related features analysis. OpenCV runs on the following desktop operating systems: Windows, Linux, macOS, FreeBSD, NetBSD, OpenBSD.
+* **Tensorflow**: TensorFlow is a free and open-source software library for dataflow and differentiable programming across a range of tasks. It is a symbolic math library, and is also used for machine learning applications such as neural networks. It is used for both research and production at Google.
+* **Keras**: Keras is an API designed for human beings, not machines. Keras follows best practices for reducing cognitive load: it offers consistent & simple APIs, it minimizes the number of user actions required for common use cases, and it provides clear & actionable error messages. It also has extensive documentation and developer guides.
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/64481847/92205356-20777100-eea3-11ea-961e-f48bcfddb8eb.jpeg" width="400" /> 
