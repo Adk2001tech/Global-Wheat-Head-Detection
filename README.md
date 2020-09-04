@@ -1,6 +1,12 @@
 # Global Wheat Head🌾 Detection🕵️‍♂️ 
 ![wheat](https://user-images.githubusercontent.com/64481847/92102906-db006880-edfc-11ea-805b-e14c8e669b48.png)
 
+### **Model OUTPUT** glimpse ♾️:
+
+![wheat](https://user-images.githubusercontent.com/64481847/92202310-52d1a000-ee9c-11ea-8a8e-77b02e845561.gif)
+
+
+
 # Abstract : 
 Wheat is a staple across the globe, which makes this project more accountable.
 
@@ -182,6 +188,7 @@ Also we have to specify the label mapping `classes.csv` as follows:
 -------------------------------------------------------------
 ## 🎦
 
+![wheat](https://user-images.githubusercontent.com/64481847/92202310-52d1a000-ee9c-11ea-8a8e-77b02e845561.gif)
 
 
 
