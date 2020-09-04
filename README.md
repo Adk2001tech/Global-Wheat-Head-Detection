@@ -169,7 +169,7 @@ Also we have to specify the label mapping `classes.csv` as follows:
         --epochs 10 \
         csv annotations.csv classes.csv
         
-5. While traning, model will get saved in each epoch at `snapshots/` folder.
+5. While traning, model will get saved in each epoch at `snapshots/` folder. With More compu
 6. For Loading the Traned model, we can follow this:
 
             model_path = os.path.join('snapshots', sorted(os.listdir('snapshots'), reverse=True)[0])
@@ -178,6 +178,8 @@ Also we have to specify the label mapping `classes.csv` as follows:
 
 7. You can use `perd_from_model(model, image, th=0.5, box_only=False)` from this <a href="https://github.com/Adk2001tech/Global-Wheat-Head-Detection/blob/master/wheat_head_video/Wheat_Head_VIDEO_processing.py">SCRIPT</a> to draw bounding boxes on an Image.
 
+8. Download Trained(8 epochs) Wheat head Detection Model from <a href="https://drive.google.com/file/d/1xUMA2SOOXj4tBw0rg4Bbe2phWfXIVe7L/view?usp=sharing">here</a>. You can go 
+ahead for more epoch with more computational💻 power.
 # Visualizing model performance 🔖:
 ## 📸
 ![pred2](https://user-images.githubusercontent.com/64481847/92199401-af30c180-ee94-11ea-8bc2-a55450d2c35e.png)
