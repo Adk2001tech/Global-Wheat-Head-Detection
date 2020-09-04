@@ -197,13 +197,13 @@ ahead for more epoch with more computational💻 power.
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/64481847/92205366-2a00d900-eea3-11ea-9389-22d5b9911985.jpg" width="400" />
-  <img src="https://user-images.githubusercontent.com/64481847/92205324-13f31880-eea3-11ea-8dfc-1710799ad18b.jpg" width="500" />
+  <img src="https://user-images.githubusercontent.com/64481847/92205324-13f31880-eea3-11ea-8dfc-1710799ad18b.jpg" width="400" />
 </p>
 
 <br>
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/64481847/92205356-20777100-eea3-11ea-961e-f48bcfddb8eb.jpeg" width="400" /> 
-  <img src="https://user-images.githubusercontent.com/64481847/92205363-279e7f00-eea3-11ea-8281-c28100d175f4.jpeg" width="500" />
+  <img src="https://user-images.githubusercontent.com/64481847/92205363-279e7f00-eea3-11ea-8281-c28100d175f4.jpeg" width="400" />
   <img src="https://user-images.githubusercontent.com/64481847/92205361-266d5200-eea3-11ea-9967-a39f80ca61ac.jpeg" width="700" />
 </p>
