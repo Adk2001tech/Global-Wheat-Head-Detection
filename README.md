@@ -219,3 +219,5 @@ ahead for more epoch with more computational💻 power.
   <img src="https://user-images.githubusercontent.com/64481847/92205363-279e7f00-eea3-11ea-8281-c28100d175f4.jpeg" width="400" />
   <img src="https://user-images.githubusercontent.com/64481847/92205361-266d5200-eea3-11ea-9967-a39f80ca61ac.jpeg" width="700" />
 </p>
+
+## Thank you for reading :-)
