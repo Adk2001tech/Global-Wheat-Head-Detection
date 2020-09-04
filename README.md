@@ -47,7 +47,7 @@ Using worldwide data, the DL model will focus on a generalized solution of detec
 # Exploratory Data Analysis 📊:
 **Notebook link:**
 * <a href="https://www.kaggle.com/akhileshdkapse/global-wheat-detection-comprehensive-eda">**Kaggle Notebook**</a>
-* <a href="https://arxiv.org/abs/2005.02162">**GitHub Repository Notebook**</a>
+* <a href="https://github.com/Adk2001tech/Global-Wheat-Head-Detection/blob/master/Wheat-Head-detection-comprehensive-eda.ipynb">**GitHub Repository Notebook**</a>
 
 In order to avoid unnecessary computation during the Exploratory Data Analysis(EDA) that follows, here we will prepare custom dataframe encapsulating necessary image oriented features such as :
 * `image_id` - The unique image ID(3,373).
@@ -143,12 +143,12 @@ Also we have to specify the label mapping `classes.csv` as follows:
 * In the repository, execute `pip install . --user`. Note that due to inconsistencies with how tensorflow should be installed, this package does not define a dependency on tensorflow as it will try to install that (which at least on Arch Linux results in an incorrect installation). Please make sure tensorflow is installed as per your systems requirements.
 * Alternatively, you can run the code directly from the cloned repository, however you need to run `python setup.py build_ext --inplace` to compile Cython code first.
 
-### You can Use Pre-trained models using this SCRIPT.
+### You can Use Pre-trained models using this <a href="https://github.com/Adk2001tech/Global-Wheat-Head-Detection/blob/master/Retinanet_per_trained/Retinanet_pertrained.py">SCRIPT</a>.
 
 # Traning RetinaNet Model ⚙️:
 **Notebook link:**
 * <a href="https://www.kaggle.com/akhileshdkapse/wheat-head-detection-with-retinanet-keras">**Kaggle Notebook**</a>
-* <a href="https://arxiv.org/abs/2005.02162">**GitHub Repository Notebook**</a>
+* <a href="https://github.com/Adk2001tech/Global-Wheat-Head-Detection/blob/master/Wheat-head-detection-with-retinanet-keras.ipynb">**GitHub Repository Notebook**</a>
 
 1. Download Pre-trained Base models [`resnet101, resnet50, resnet152`]
 2. Save it in `snapshots/pretrained_model.h5`.
@@ -170,4 +170,4 @@ Also we have to specify the label mapping `classes.csv` as follows:
             model = models.load_model(model_path, backbone_name='resnet50')
             model = models.convert_model(model)
 
-7. You can use `perd_from_model(model, image, th=0.5, box_only=False)` from this script to draw bounding boxes on an Image.
+7. You can use `perd_from_model(model, image, th=0.5, box_only=False)` from this <a href="https://github.com/Adk2001tech/Global-Wheat-Head-Detection/blob/master/wheat_head_video/Wheat_Head_VIDEO_processing.py">SCRIPT</a> to draw bounding boxes on an Image.
