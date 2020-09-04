@@ -171,3 +171,11 @@ Also we have to specify the label mapping `classes.csv` as follows:
             model = models.convert_model(model)
 
 7. You can use `perd_from_model(model, image, th=0.5, box_only=False)` from this <a href="https://github.com/Adk2001tech/Global-Wheat-Head-Detection/blob/master/wheat_head_video/Wheat_Head_VIDEO_processing.py">SCRIPT</a> to draw bounding boxes on an Image.
+
+# Visualizing model performance 🔖:
+
+![pred2](https://user-images.githubusercontent.com/64481847/92199401-af30c180-ee94-11ea-8bc2-a55450d2c35e.png)
+
+-------------------------------------------------------------
+![pred3](https://user-images.githubusercontent.com/64481847/92199454-d8e9e880-ee94-11ea-8eca-d3a58f21748a.png)
+
