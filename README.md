@@ -121,7 +121,7 @@ Rothamsted Research is the longest-running agricultural research institution in 
 
 <br><br><br>
 
-# Outlier fixection 🛠️:
+# Outlier fixation 🛠️:
 <img src="https://user-images.githubusercontent.com/64481847/92133625-385cdf80-ee26-11ea-8c0b-b1000c198d4e.jpg"  weidth="1300">
 
 ### We have encountered with Mis-matched Large Bounding Boxes in certain images in EDA
