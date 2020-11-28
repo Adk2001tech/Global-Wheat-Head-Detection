@@ -1,4 +1,4 @@
-# Global Wheat Head🌾 Detection🕵️‍♂️ 
+# AI Wheat🌾 Harvesting System 
 ![wheat](https://user-images.githubusercontent.com/64481847/92102906-db006880-edfc-11ea-805b-e14c8e669b48.png)
 
 ### **Model OUTPUT** glimpse ♾️:
